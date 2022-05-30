@@ -1,16 +1,16 @@
 # node-sendgrid-key-checker
 Check if your sendgrid api key works
 
-## How to check? Pretty simple
+## How to use
 ```shell
 cp .env.example .env
 ```
 
-Feed your api key and email addresses to .env file and then:
+Configure your dotenv file and run:
 ```shell
-node send
+npm run send
 ```
 
-Response from sendgrid server would be displayed in your console. <br>
-Also check the target email inbox. <br>
-Happy sending!
+Response from sendgrid server would be displayed in your console.  
+Also check the target email inbox.  
+Happy sending! :)
