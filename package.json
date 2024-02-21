@@ -9,7 +9,7 @@
   "author": "dockerlead <dockerlead@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@sendgrid/mail": "^7.2.1",
+    "@sendgrid/mail": "^8.1.1",
     "dotenv": "^8.2.0"
   }
 }
